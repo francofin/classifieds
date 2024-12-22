@@ -1,0 +1,1000 @@
+[
+  {
+    "title": "Home",
+    "link":"/"
+  },
+  {
+    "title": "Categories",
+    "position": "static",
+    "megamenu": [
+      [
+        {
+          "title": "Home Services",
+          "links": [
+            {
+              "title": "Cleaning Services",
+              "link": "/categories/cleaning-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Plumbing",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Electrical Services",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "HVAC",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Landscaping & Gardening",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Pest Control",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Home Repair & Maintenance",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Painting & Decorating",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            },
+            {
+              "title": "Interior Design",
+              "link": "/categories/interior-design",
+              "parent": "Home"
+            },
+            {
+              "title": "Appliance Repair",
+              "link": "/categories/applicance-repair",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Health & Wellness",
+          "links":  [
+            {
+              "title": "Personal Training",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Massage Therapy",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Chiropractic Services",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Nutrition & Diet Counseling",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Yoga & Meditation",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Mental Health Counseling",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Physical Therapy",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Acupuncture",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            },
+            {
+              "title": "Dental Care",
+              "link": "/categories/interior-design",
+              "parent": "Home"
+            },
+            {
+              "title": "Optometry",
+              "link": "/categories/applicance-repair",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Real Estate & Property Management",
+          "links":  [
+            {
+              "title": "Real Estate Consulting",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Property Management",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Real Estate Photography",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Home Staging",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Moving & Relocation Services",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Storage Services",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Appraisal Services",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Mortgage Consulting",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Manufacturing & Industrial Services",
+          "links":  [
+            {
+              "title": "Manufacturing Consultation",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "3D Printing Services",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Machinery Repair",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Welding & Metal Fabrication",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Industrial Cleaning",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Packaging & Shipping",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Warehouse Management",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Environmental & Agricultural Services",
+          "links":  [
+            {
+              "title": "Environmental Consulting",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Recycling & Waste Management",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Sustainable Landscaping",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Organic Farming Consulting",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Pest Management",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Tree Planting & Care",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Beauty & Personal Care",
+          "links": [
+            {
+              "title": "Hair Salons & Styling",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Nail Salons",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Spa Services",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Makeup Artistry",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Skincare Treatments",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Tattoo & Piercing",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Barber Shops",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Automotive Services",
+          "links": [
+            {
+              "title": "Auto Repair & Maintenance",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Car Detailing",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Auto Body Repair & Painting",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Tire Services",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Towing & Roadside Assistance",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Windshield Repair & Replacement",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Car Rental & Leasing",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Financial & Legal Services",
+          "links": [
+            {
+              "title": "Accounting & Bookkeeping",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Tax Preparation",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Financial Planning & Advising",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Legal Consulting",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Estate Planning & Wills",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Notary Services",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Insurance Services",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Debt Counseling",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Events & Entertainment",
+          "links": [
+            {
+              "title": "Event Planning & Coordination",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Wedding Planning",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "DJ & Live Music Services",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Party Rentals (Tents, Chairs, etc.)",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Photography & Videography",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Catering Services",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Floristry",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Balloon Art & Decorations",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            },
+            {
+              "title": "Bartending Services",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Security Services",
+          "links": [
+            {
+              "title": "Private Investigation",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Security Guard Services",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Alarm Installation",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "CCTV & Surveillance Installation",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Cybersecurity Consulting",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Background Checks",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Event Security",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Education & Tutoring",
+          "links": [
+            {
+              "title": "Academic Tutoring",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Test Preparation",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Language Instruction",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Music Lessons",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Art Classes",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Dance Instructions",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Driving Lessons",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Career Coaching & Counseling",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Technology & IT Services",
+          "links": [
+            {
+              "title": "IT Support & Helpdesk",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Computer Repair",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Network Installation & Security",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Software Development",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Web Design & Development",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "App Development",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Cybersecurity Services",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Digital Marketing & SEO",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            },
+            {
+              "title": "Data Recovery",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Child & Family Services",
+          "links": [
+            {
+              "title": "Babysitting & Nanny Services",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Child Tutoring & Education",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "After-School Programs",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Family Counseling",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Pregnancy & Postnatal Services",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Child Photography",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Parenting Classes",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Marketing & Creative Services",
+          "links": [
+            {
+              "title": "Graphic Design",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Photography & Videography",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Social Media Management",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Branding & Identity Design",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Content Writing & Copywriting",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Public Relations",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Translation Services",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Event Planning & Coordination",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Retail & E-commerce Services",
+          "links": [
+            {
+              "title": "E-commerce Consulting",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Product Photography",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Merchandising",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Personal Shopping",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Gift Wrapping",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Delivery & Logistics",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Inventory Management",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "title": "Pet Services",
+          "links": [
+            {
+              "title": "Pet Grooming",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Pet Training",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Pet Boarding & Daycare",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Veterinary Services",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Pet Walking",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Pet Sitting",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Pet Photography",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Pet Adoption & Rescue Support",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Home Improvement & Construction",
+          "links": [
+            {
+              "title": "General Contracting",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Carpentry & Woodworking",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Roofing",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Flooring & Tiling",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Kitchen & Bath Remodeling",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Windows & Doors Installation",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Masonry & Concrete",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Solar Panel Installation",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            },
+            {
+              "title": "Swimming Pool Services",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Consulting Services",
+          "links": [
+            {
+              "title": "Business Consulting",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Marketing Consulting",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Management Consulting",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Sustainability & Environmental Consulting",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Human Resources Consulting",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Career Coaching & Counseling",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Technology & IT Consulting",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Health & Safety Consulting",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Food & Beverage",
+          "links": [
+            {
+              "title": "Catering Services",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Personal Chef Services",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Meal Delivery",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Nutrition Counseling",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Wine & Spirits Consulting",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Baking & Confectionery Services",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            }
+          ]
+        },
+        {
+          "title": "Transportation & Travel",
+          "links": [
+            {
+              "title": "Chauffeur & Limo Services",
+              "link": "/categories/personal-training",
+              "parent": "Home"
+            },
+            {
+              "title": "Travel Agency Services",
+              "link": "/categories/plumbing",
+              "parent": "Home"
+            },
+            {
+              "title": "Taxi & Ride-Sharing Services",
+              "link": "/categories/electrical-services",
+              "parent": "Home"
+            },
+            {
+              "title": "Moving & Relocation Services",
+              "link": "/categories/hvac",
+              "parent": "Home"
+            },
+            {
+              "title": "Courier & Delivery Services",
+              "link": "/categories/landscaping",
+              "parent": "Home"
+            },
+            {
+              "title": "Flight Booking & Ticketing",
+              "link": "/categories/pestcontrol",
+              "parent": "Home"
+            },
+            {
+              "title": "Tour Guides",
+              "link": "/categories/home-maintenance",
+              "parent": "Home"
+            },
+            {
+              "title": "Boat & Yacht Rentals",
+              "link": "/categories/painting-decoration",
+              "parent": "Home"
+            }
+          ]
+        }
+      ]
+    ],
+    "services": [
+      {
+        "title": "Quality Businesses",
+        "content": "Find the perfect place",
+        "icon": "destination-map-1"
+      },
+      {
+        "title": "Earn points",
+        "content": "And get great rewards",
+        "icon": "money-box-1"
+      },
+      {
+        "title": "020-800-456-747",
+        "content": "24/7 Available Support",
+        "icon": "customer-support-1"
+      },
+      {
+        "title": "Secure Payment",
+        "content": "Secure Payment",
+        "icon": "secure-payment-1"
+      }
+    ],
+    "image": "/images/menu/skyview.jpg"
+  },
+  {
+    "title": "Contact",
+    "link": "/contact"
+  },
+  {
+    "title": "Articles",
+    "hideToLoggedUser": true,
+    "dropdown": [
+      {
+        "title": "Documentation",
+        "links": [
+          {
+            "title": "Introduction",
+            "link": "/docs/docs-introduction"
+          },
+          {
+            "title": "Directory structure",
+            "link": "/docs/docs-directory-structure"
+          },
+          {
+            "title": "Next.js",
+            "link": "/docs/docs-next"
+          },
+          {
+            "title": "Customizing CSS",
+            "link": "/docs/docs-customizing-css"
+          },
+          {
+            "title": "Migration to v2",
+            "link": "/docs/docs-migration-v2"
+          },
+          {
+            "title": "Credits",
+            "link": "/docs/docs-credits"
+          },
+          {
+            "title": "Changelog",
+            "link": "/docs/docs-changelog"
+          }
+        ]
+      },
+      {
+        "title": "Components",
+        "links": [
+          {
+            "title": "Bootstrap",
+            "link": "/docs/components-bootstrap"
+          },
+          {
+            "title": "Theme",
+            "link": "/docs/components-directory"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "About Us",
+    "link": "/login",
+    "hideToLoggedUser": true
+  },
+  {
+    "title": "Sign up",
+    "link": "/signup",
+    "hideToLoggedUser": true
+  },
+  {
+    "title": "Log In",
+    "link": "/login",
+    "button": true,
+    "hideToLoggedUser": true
+  }
+]

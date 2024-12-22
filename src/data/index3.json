@@ -1,0 +1,236 @@
+{
+    "swiper": [
+        {
+            "title": "Your Primary Business Search",
+            "subTitle": "Everyday Needs",
+            "content": "The easy to book directory search and business finder for your everyday needs.",
+            "img": "images/homepage/b1.jpg",
+            "parallax": "-500",
+            "button": "Start exploring Businesses",
+            "buttonLink": "#",
+            "buttonClasses": "d-none d-sm-inline-block"
+        },
+        {
+            "title": "Services",
+            "content": "Discover, Compare, and Book the Best Services Online – Your One-Stop Hub for Everything You Need, When You Need It!",
+            "img": "images/homepage/b2.jpg",
+            "parallax": "-500",
+            "button": "Start exploring",
+            "buttonLink": "#",
+            "buttonClasses": "d-md-none",
+            "blocks": [
+                {
+                    "title": "Food",
+                    "location": "Restaurant Services",
+                    "img": "images/homepage/b4.jpg",
+                    "link": "/detail-rooms"
+                },
+                {
+                    "title": "Repair",
+                    "location": "Repair and Renovation Services",
+                    "img": "images/homepage/b5.jpg",
+                    "link": "/detail-rooms"
+                },
+                {
+                    "title": "Storage",
+                    "location": "Storage Services",
+                    "img": "images/homepage/b6.jpg",
+                    "link": "/detail-rooms"
+                }
+            ]
+        },
+        {
+            "title": "Reduce The Hassle",
+            "subTitle": "Hassle Free",
+            "content": "Reduce the hassle of finding the right business for your needs with verified reviews",
+            "img": "images/homepage/b3.jpg",
+            "parallax": "-500",
+            "iconsBottom": [
+                {
+                    "title": "Flights",
+                    "badge": "from $345",
+                    "icon": "airplane-mode-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Holidays",
+                    "badge": "from $1,245",
+                    "icon": "suitcase-1",
+                    "link": "#"
+                },
+                {
+                    "title": "Guide & gallery",
+                    "content": "See more",
+                    "icon": "image-gallery-1",
+                    "link": "#"
+                }
+            ]
+        }
+    ],
+    "numberedBlocks": [
+        {
+            "title": "Travel",
+            "content": "One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his"
+        },
+        {
+            "title": "Relax",
+            "content": "The bedding was hardly able to cover it and seemed ready to slide off any moment. His many legs, pitifully thin compared with the size."
+        },
+        {
+            "title": "Explore",
+            "content": "His room, a proper human room although a little too small, lay peacefully between its four familiar walls. A collection of textile samp."
+        }
+    ],
+    "imageDivider": "img/photo/places-divider.jpg",
+    "searchOptions": [
+        {
+            "value": "small",
+            "label": "Restaurants"
+        },
+        {
+            "value": "medium",
+            "label": "Hotels"
+        },
+        {
+            "value": "large",
+            "label": "Cafes"
+        },
+        {
+            "value": "x-large",
+            "label": "Garages"
+        }
+    ],
+    "popular": {
+        "title": "Business Searches",
+        "content": "Finding the right service has never been easier! Our platform connects you to top-rated professionals and businesses, tailored to your needs. With just a few clicks, explore a wide range of services, compare reviews, and book instantly – all in one convenient place. Say goodbye to endless searches and hello to streamlined solutions for your everyday needs!",
+        "button": "Search Businesses",
+        "places": [
+            {
+                "title": "Home Services",
+                "subTitle": "HVAC and Repair Services",
+                "img": "images/mainpage/b2.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Health & Wellness",
+                "subTitle": "Personal Trainers and RMTs",
+                "img": "images/mainpage/health.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Beauty & Personal Care",
+                "subTitle": "Styles and Smiles",
+                "img": "images/mainpage/salon.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Automotive",
+                "subTitle": "Automotive services",
+                "img": "images/mainpage/auto.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Financial",
+                "subTitle": "Financial and Portfolio Services",
+                "img": "images/mainpage/financial.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Education",
+                "subTitle": "Tutoring and Mentoring",
+                "img": "images/mainpage/education.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Technology",
+                "subTitle": "Web Devlopment",
+                "img": "images/mainpage/tech.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Marketing",
+                "subTitle": "Make youe business popular",
+                "img": "images/mainpage/marketing.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Real Estate",
+                "subTitle": "Find and Mainatin Your Dream Home",
+                "img": "images/mainpage/realestate.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Event Planning",
+                "subTitle": "For that SpecialDay",
+                "img": "images/mainpage/events.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Pet Services",
+                "subTitle": "Grooming and the Works",
+                "img": "images/mainpage/pets.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Home Improvement",
+                "subTitle": "The modifications without the headache",
+                "img": "images/mainpage/b1.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Transportation & Travel",
+                "subTitle": "Where you got to go",
+                "img": "images/mainpage/transport.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Child and Family Care",
+                "subTitle": "For your loved ones",
+                "img": "images/mainpage/family.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Manufacturing & Industrials",
+                "subTitle": "Services For The Works",
+                "img": "images/mainpage/manufacturing.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Security Services",
+                "subTitle": "Secure what needs Protecting",
+                "img": "images/mainpage/security.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Retail",
+                "subTitle": "For the everyday",
+                "img": "images/mainpage/retail.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Food and Beverage",
+                "subTitle": "From Eating out to Eating in",
+                "img": "images/mainpage/restaurant.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "Environmental Services",
+                "subTitle": "For our world that needs us",
+                "img": "images/mainpage/environmental.jpg",
+                "link": "/category-3"
+            },
+            {
+                "title": "The Classifieds",
+                "subTitle": "Your Solutions with ease",
+                "img": "images/landing/Classifieds-logos.jpeg",
+                "link": "/category-3"
+            },
+            {
+                "title": "The Classifieds",
+                "subTitle": "Your Solutions with ease",
+                "img": "images/landing/Classifieds-logos.jpeg",
+                "link": "/category-3"
+            }
+        ]
+    }
+}
